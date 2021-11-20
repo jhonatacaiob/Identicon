@@ -1,6 +1,6 @@
 # Identicon
 
-**TODO: Add description**
+This is a program that generates identicons based on your name. Developed over the course of "The Complete Elixir and Phoenix Bootcamp"
 
 ## Installation
 
